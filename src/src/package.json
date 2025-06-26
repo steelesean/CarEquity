@@ -1,0 +1,17 @@
+{
+  "name": "uk-car-equity-checker",
+  "version": "1.0.0",
+  "description": "A modern web app for UK car owners to view their current equity, inspired by Apple’s design system.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "echo 'No local dev server: use GitHub Pages or Codespaces for preview.'",
+    "build": "echo 'No build step defined.'"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
